@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "admin@example.com",
+      "password_hash": "",
+      "name": "Admin"
+    }
+  ],
+  "residences": [
+    {
+      "id": 1,
+      "name": "Budi",
+      "permit_number": "A-001",
+      "nationality": "Indonesia",
+      "start_date": "2024-01-01",
+      "expire_date": "2025-12-31",
+      "notes": "",
+      "created_by": 1
+    }
+  ]
+}
